@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.background{
+    border: 7px solid black; 
+    background-color: rgb(186, 186, 217);  
+}
+img{
+    height: 260px;
+    width: 220px;
+    border-radius: 50%;
+    margin-left: 185px;
+    margin-top: 65px;
+}
+h2{
+    margin-left: 460px;
+    font-size: xx-large;
+    font-weight: bolder; 
+}
+p{
+    margin-left: 744px;
+}
+h1{
+    margin-left: 190px;
+    font-size: xx-large;
+    font-weight:500;
+}
+.paragraph{
+    margin-left: 190px;
+    justify-content: space-evenly;
+}
+h3{
+    margin-left: 13px;
+}
+.biographies{
+    margin-left: 25px;
+}
+footer{
+    margin-left: 600px;
+}
+/* .mainpic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
